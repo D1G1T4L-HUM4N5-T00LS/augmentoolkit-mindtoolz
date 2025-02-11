@@ -1,17 +1,17 @@
-# May be incomplete
+# requirements.txt
+
 numpy
-protobuf 
-sentencepiece 
+protobuf
+sentencepiece
 torch
 transformers
 accelerate
-matplotlib 
+matplotlib
 scipy==1.11.3
 nltk==3.8.1
 openai
 aiohttp
 pyyaml
-asyncio
 httpx
 orjson
 cohere
@@ -26,4 +26,5 @@ textract-py3
 python-docx
 pytesseract
 PyMuPDF
-bs4
+beautifulsoup4
+tqdm
